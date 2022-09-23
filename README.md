@@ -1,6 +1,6 @@
 # video-browser
 
-## Project setup
+## Project setup 
 ```
 npm install
 ```
